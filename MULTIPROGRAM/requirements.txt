@@ -1,0 +1,8 @@
+colorama
+pystyle
+requests
+os
+discord
+time
+json
+platform
